@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @NeeloufarShaik
+- 👀 I’m interested in Software Developer
+- 🌱 I’m currently learning FrontEnd, BackEnd
+- 💞️ I’m looking to collaborate on some progressive projects.
+- 📫 How to reach me neeloufarshaik@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
